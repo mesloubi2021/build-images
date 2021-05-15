@@ -1,5 +1,5 @@
 # Base from Ubuntu trusty
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 
 # The docker build process is noninteractive
 ARG DEBIAN_FRONTEND=noninteractive
